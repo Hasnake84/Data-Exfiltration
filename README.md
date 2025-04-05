@@ -83,7 +83,7 @@ An employee named John Doe, working in a sensitive department, was recently plac
 3. Escalate findings to management and recommend a follow-up review of John's device for additional forensic artifacts.  
 
 ## Steps to Reproduce:
-1. Provision a virtual machine with a public IP address
+1. Provision a virtual machine within Azure.
 2. Ensure the device is actively communicating or available on the internet. 
 3. Onboard the device to Microsoft Defender for Endpoint
 4. Verify the relevant logs, network traffic logs, exposure alert are being collected in MDE.
