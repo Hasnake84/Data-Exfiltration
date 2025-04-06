@@ -26,6 +26,7 @@ An employee named John Doe, working in a sensitive department, was recently plac
 3. **Network Exfiltration Check:**  
    - **Observed Behavior:** No evidence of data exfiltration via network logs during the time frame.  
    - **Detection Query (KQL):**  
+![image](https://github.com/user-attachments/assets/242d7cda-a7d8-4b2a-957e-71c6c0b4cc66)
 
 4. **Response:**  
    - Shared findings with the manager, highlighting automated archive creation and no immediate signs of exfiltration. The device was isolated, awaiting further instructions.
