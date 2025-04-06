@@ -23,11 +23,11 @@ An employee named John Doe, working in a sensitive department, was recently plac
 
 ![image](https://github.com/user-attachments/assets/47b1d237-7cbd-46cf-834d-9d38c5c6bd30)
 
-   3. **Network Exfiltration Check:**  
+3. **Network Exfiltration Check:**  
    - **Observed Behavior:** No evidence of data exfiltration via network logs during the time frame.  
    - **Detection Query (KQL):**  
 
-   4. **Response:**  
+4. **Response:**  
    - Shared findings with the manager, highlighting automated archive creation and no immediate signs of exfiltration. The device was isolated, awaiting further instructions.
 
 ## **MITRE ATT&CK Framework TTPs**  
